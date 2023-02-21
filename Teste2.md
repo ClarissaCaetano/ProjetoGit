@@ -1,1 +1,1 @@
-Criando novo arquivo e testando versinamento
+Criando novo arquivo e testando versionamento
